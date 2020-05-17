@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+"""
+USER & PASS = root & root
+Commands :
+Attacks
+Stopattacks
+HELP = Display all commands
+"""
 import sys
 import socket
 import time
